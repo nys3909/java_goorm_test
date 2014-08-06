@@ -12,6 +12,12 @@ public class main {
 		MyThread t2= new MyThread("goorm2");
 		MyThread t3= new MyThread("goorm3");
 
+		
+		
+		
+		
+		
+		
 		t1.start();
 		t2.start();
 		t3.start();
